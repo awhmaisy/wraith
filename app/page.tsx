@@ -16,7 +16,7 @@ export default function Home() {
         </video>
         <br /><br /><br /><br />
         <pre className="text-sm text-left font-unifont max-w-sm" style={{ fontFamily: 'Unifont' }}>
-          <p>i have been learning various things and playing board games in between. these are a few of my projects i've been working on, some of which will be coming soon!</p>
+          <p>i have been learning various things and playing board games in between. these are a few of my projects i&apos;ve been working on, some of which will be coming soon!</p>
           <br /><br />
           <p>board games</p>
           <ul>
