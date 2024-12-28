@@ -24,7 +24,8 @@ export default function Home() {
             <li><span className="text-[#ea9ae5]">II</span>   (24) - summer studies                    [<a href="https://m0412.netlify.app/" className="text-[#ea9ae5]">♡</a>]</li>
             <li><span className="text-[#ea9ae5]">III</span>  (24) - fall 2024 blog                    [<a href="https://awhmaisy.com" className="text-[#ea9ae5]">♡</a>]</li>
             <li><span className="text-[#ea9ae5]">IV</span>   (25) - ASCII tarot reader                [<a href="https://github.com/awhmaisy/gorthaur" className="text-[#ea9ae5]">♡</a>]</li>
-            <li><span className="text-[#ea9ae5]">V</span>    (25) - target package tee                [<a href="https://github.com/awhmaisy" className="text-[#ea9ae5]">soon</a>]</li>
+            <li><span className="text-[#ea9ae5]">V</span>    (25) - engraved clip / muzzle guard      [<a href="https://awhmaisy.com" className="text-[#ea9ae5]">soon</a>]</li>
+            <li><span className="text-[#ea9ae5]">VI</span>   (25) - target package tee                [<a href="https://awhmaisy.com" className="text-[#ea9ae5]">soon</a>]</li>
           </ul>
           <br /><br />
           <p>Links</p>
