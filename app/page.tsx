@@ -26,6 +26,7 @@ export default function Home() {
             <li><span className="text-[#ea9ae5]">IV</span>   (25) - ASCII tarot reader                [<a href="https://github.com/awhmaisy/gorthaur" className="text-[#ea9ae5]">♡</a>]</li>
             <li><span className="text-[#ea9ae5]">V</span>    (25) - engraved clip / muzzle guard      [<a href="https://awhmaisy.com" className="text-[#ea9ae5]">soon</a>]</li>
             <li><span className="text-[#ea9ae5]">VI</span>   (25) - target package tee                [<a href="https://awhmaisy.com" className="text-[#ea9ae5]">soon</a>]</li>
+            <li><span className="text-[#ea9ae5]">VI</span>   (25) - banned books  tee                 [<a href="https://awhmaisy.com" className="text-[#ea9ae5]">soon</a>]</li>
           </ul>
           <br /><br />
           <p>Links</p>
